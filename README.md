@@ -1,2 +1,3 @@
 # UltraFast
-A fast, lightweight MC modpack focused heavily on performance with a ton of optimization mods, plus a few QoL mods.
+- UltraFast is a modpack built for performance and optimization, paired with a few QoL mods to keep your game running as smooth as possible without changing how vanilla Minecraft plays.
+- Report any issues here
